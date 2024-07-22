@@ -1,1 +1,1 @@
-# K-means-for-Color-Compression
+check the .ipynb file
